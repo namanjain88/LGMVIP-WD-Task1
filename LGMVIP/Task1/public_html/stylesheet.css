@@ -1,0 +1,50 @@
+.navbar li{
+    float: left;
+    color: white;
+    display: block;
+}
+.navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:black;
+}
+.navbar li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbar li a:hover{
+  background-color:grey;
+}
+.navbar i{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.intro h1{
+    color: black;
+}
+.intro{
+    background-image:url('car.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    opacity: 90%;
+}
+
+
+.fa-facebook {
+  
+  color: black;
+}
+
+.topselling .col-md-4:hover{
+    background-color: yellowgreen;
+    
+}
